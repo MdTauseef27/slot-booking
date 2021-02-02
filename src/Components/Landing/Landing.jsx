@@ -54,6 +54,7 @@ export const Landing = () => {
               <Col>
                 <Form.Control type="email" placeholder="No Of Beds" />
               </Col>
+              <h1>hiiiiiii</h1>
             </Row>
           </Form>
           <Button
